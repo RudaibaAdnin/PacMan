@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1465451532 source:d:\check\picturedemo.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1462108168 d:\check\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465631413 source:d:\packman game by 1505032 , 1505046\picturedemo.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1462108168 d:\packman game by 1505032 , 1505046\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
